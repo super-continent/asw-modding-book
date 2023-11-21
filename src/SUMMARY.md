@@ -7,3 +7,6 @@
 - [The right Unreal Engine build](getting-started/getting-unreal.md)
 - [How to use Unreal Engine](getting-started/using-unreal.md)
     - [Getting the project for your game](getting-started/custom-project.md)
+
+# Script Modding With BBScript
+- [BBScript Usage Basics](script-modding/bbscript-usage-basics.md)
